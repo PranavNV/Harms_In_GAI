@@ -1,0 +1,164 @@
+
+Quotes Based on Harms
+
+I. Exoticism
+
+
+1.	  I can clearly see that Westernization is very much visible here in these pictures, because I am not sure how well or how commonly do we really have this sort of plating in India? You know, in the Indian context, when we talk about breakfast, it's mostly divided by regions, and it's very easy to identify which plate can come from which region. But in these 4 pictures, it’s clearly a bad mix of regions. Maybe it's not even any Indian region that it's specifically focusing on,- [exoticism, ‘western lens’]
+
+2.	“The one thing I can see is all these pictures are very festive and not representative of how they would be in everyday life. Like even the images on the right, I feel like they don't represent it exactly, but the left ones are much, much more prominent.” -[ Exoticism and Stereotyping ]
+
+3.	“I wanted to comment on the traditional attire. So we said “Indian”, so is that why they're showing sarees? Because generally, Middle class families don't always wear sarees.” - exoticism 
+
+4.	Why are all of these images of ..of like village women? I mean, that's the first thing which comes to mind. I mean, you know we have cities and big metropolitan towns and whatnot. I mean, we it's India is just not, you know, just villages and all, you know. So that's the first thing which comes to mind. Why are all of these women interpreted as belonging from the villages? - [Stereotyping (Attention to Rural India Context)]
+
+5.	This is not us on a daily basis. We are not dressed like this every single day. We wear normal clothes, like everybody else does. So this looks like a very specific situation of Indian couples at some sort of celebration.
+
+6.	They are more dreamy, like in the dreamy, in the sense like these look very realistic. Those are like artsy. If that makes sense like paintings of sorts. There are some cartoons as well. What else? There? There are some modern like traditionally modern women as well like you can see some women wearing Sari, the modern version of the Sari as well in those images. Oh, yeah. the art is there? As well. What else? Yeah.
+
+7.	Yeah, I think. it seems like a lot of superlatives. They’re trying to it like trying to hype up all of these things, not necessarily saying that they’re not hype worthy. It’s just that I mean the use of like when I see the text that says sumptuous meals through the festivities, or like intricate mehandi designs drawn on the bride’s reply to the bride’s hands and feet, so stuff like that. It seems like something you will see in a story. or like yeah, I guess that it just. I wouldn’t say it’s incorrect, but it seems like it’s trying to be a little over the top.
+
+8.	That small girl is wearing a saree.
+
+9.	For instance, in Mumbai, a lot of street markets as Jyoti pointed out, you won’t see women wear such clothing because these street markets are near offices, and a lot of working women are in Western formals over there. So, the probability of finding someone in Indian wear would actually be much less so
+
+10.	I don’t think it captures that one but a typical, if you see, like the impression of wedding from the eyes of US people or European people. It kind of depicts that.
+
+11.	since it's the prompt, is inspired by that. I think it's doing a good job of showing what Indian markets or like bazaars can be like. I would say I haven't seen them quite so colorful, if they are colorful, but maybe not as colorful as these images are, but I think it's doing a pretty good job of showing the number of people that are usually there, these markets and the kind of activities that they're doing. Some people are just walking. 
+
+
+II. Misinformation
+
+A. Inaccuracies: When the model does not adhere to the prompt (or the cultural understanding of the prompt)
+
+I wanted to comment on the traditional attire. So we said “Indian”, so is that why they're showing sarees? Because generally, Middle class families don't always wear sarees. - Misinformation
+
+B. Misinformation due to Western Lens:
+
+1. I also think I mean, I know the discussion is about India as such. But I think it's mostly just a representation of how US and UK sees us. - Stereotyping, Misinformation, QoS (Western Lens Context) 
+
+2. Stereotypically, India has been, in the Western lens, always shown as a very colorful country, and so when you make an illustration as opposed to the generator showing a real image, the color can be exaggerated. - Stereotyping, Misinformation (Western Lens Context)
+
+3. this model is wanting to portray India as a country of deprivation, like a third World country rather than highlighting. The entire expanse of what India is like this is like bias at on steroids. Stereotyping, Misinformation (Third World Country Context)
+
+5. What one of the things which I feel like as all these images which have been felt to these models are through the lens of a white person visiting India. And then these models are trained on top of that, and they’re just reiterating what a white person sees in India that makes sense. There was an article which was called The Whiteness of AI.- Stereotyping, Misinformation (Western Lens Context)
+
+C. Misinformation in Gender Context:
+
+1. I think women are shown in more traditional attire, compared to men. That’s just my opinion. I can see many men wearing the Western clothes, but not a single woman wearing it - Stereotyping, Misinformation (Gender Context)
+
+2. Oh my God! This is so demeaning. I mean, do they not have the concept of women wearing shirt and pants at all. - Stereotype, Misinformation, QoS (Gender Bias, Erroneous Output, Sentiment Towards GAI)
+
+D. Misinformation and Culture:
+
+1. All the food is really properly arranged in different bowls... Yes, you can find it in fancy restaurants and all, but at home, or any casual setting, people just eat it.” - misinformation [food]
+
+2.: “I think the one thing that stands out for me as slightly odd is that in at least 2 of the photos, people are wearing the flower mala, which is not common in festivals. It’s specifically for marriages.” - misinformation [festival] 
+
+3. Yeah, it looks like it's trying to emulate a generic you know, stuff that Indian women put on their heads. But it has lost that specificity. And in order to do that, it just made something entirely different. I can't place what these ornaments are. [Erasure (Regional), Stereotyping, Misinformation, Disparagement]
+
+4. I think, even though actually, this might just come from me, not understanding it, but like the bottom left image, although every single like piece of jewelry, and like each of the images in that image are different. I still don't know how well it's representing diversity, because there's also a lot of cultures and groups of people in India that don't wear any headgear like, I think it's showing a very specific idea that it's picked up. And this could also, like, give off the notion that all Indians do wear some kind of like something on their head. [Misappropriation, Erasure (Religion and Region), Misinformation, Stereotyping]
+
+5. “Just by looking at the figures, it looks like how India would look maybe 30, 40 years ago. The modern middle class family maybe would not look like this.” - Erasure and Stereotyping
+
+E. Misinformation and Hallucination:
+
+1. I don’t know how correct it is, but it it does make use of certain acts and laws which seem to be very realistic, but I just don’t know whether they are actually there, or it it just hallucinated or something. Misinformation (Hallucination Context)
+
+III. Misappropriation
+
+1.	…You know, in the Indian context, when we talk about breakfast, it's mostly divided by regions, and it's very easy to identify which plate can come from which region. But in these 4 pictures, it’s clearly a bad mix of regions. Maybe it's not even any Indian region that it's specifically focusing on…
+
+2.	Also it put everything under one single bracket…
+
+3.	Also, like in the last photo, where, like the woman is like covering her face in a traditional attire and stuff like I wouldn't expect to see that in atleast New York City. - Misappropriation, Misinformation
+
+4.	Yeah, it looks like it's trying to emulate a generic you know, stuff that Indian women put on their heads. But it has lost that specificity. And in order to do that, it just made something entirely different. I can't place what these ornaments are. [Erasure (Regional), Stereotyping, Misinformation, Disparagement]
+
+
+
+IV. Erasure
+
+A. Erasure and Regional Experiences
+
+1. They are not capturing religious diversity at all. - Erasure (Religious Context)
+
+2. I also think that if it's going to give 4 different pictures, for, like a prompt. there should be more diversity in like capturing the diversity of the country itself, because that's one of the unique features of India. And having, like a broader representation for different religions, different regions, different cultures. I think that's very important, at least from the prompts - Erasure, Misappropriation (Lack of Diversity, Recommendations) 
+
+3. “I don’t think this reflects any festival that we celebrate in the South especially mostly because of the colors. It’s very rare that there’s a function in the South where there’s so many bright colors, and it’s usually very muted. At least in Kerala. It’s not representing the South and the dancing. All of that is very unlikely in any of our celebrations.” - stereotyping [festival], erasure [festival]
+
+4. When these look like some particular religion, but not representative of other religions that are part of India. - Erasure (Religious Context)
+
+5. “It doesn’t remind me of any specific festivals that I would celebrate in my home. Usually a lot of festivals have, let’s say, diyas lit, or a more silent environment, more peaceful in the festivals that we celebrate. It’s not a lot of dance and a lot of color. Usually it’s little bit more quieter” - erasure [festival]
+
+7. Sanjana: I don't see anything or any dish that bears any resemblance to anything from the South. - Erasure
+
+8.: I again feel like it’s they just. It’s it looks like it’s from one region and from one socioeconomic space. - Stereotype, Erasure, QoS (Sentiment Towads GAI)
+
+9. “I think my first impression is, it doesn’t have any non veg, and I think it doesn’t even have a lot of South Indian food. I can’t see any dosa, or anything of that sort.” - erasure [food]
+
+B. Erasure and Economic Representation
+
+1. <GAI> is saying tons of things, but not really like pointing out to the social and economic conditions of India in a very real sense. - Erasure, QoA (Text Generation Context & Lack of Detail)
+
+2 So these pictures are also representative of something that looks rich. It looks fancy with the different colors, and it's plated very beautifully, and I don't think this is what we would eat on a daily basis, as a middle class family. Because there's also a range of things and a range of classes, so I think that would also be misleading, looking at these images. - Erasure + Stereotyping (?) + Misappropriation
+
+3. “Why are only the rich people celebrating things when the poor people are not celebrating something? Almost all photos of the rich people is a wedding or a get-together where everyone is dressed. So you can imagine that it's some sort of wedding or something.” - Dehumanization and Stereotyping and Erasure
+
+C. Erasure and Religion
+
+1.Yeah, I mean, by just looking at these pictures, they would think that most families in India are Hindu families. - Erasure (Religious Context)
+
+2. these look like slightly inaccurate representations of Hindu mythological characters. Not slightly, very. I don’t think they resemble what goddesses, or Indian Goddesses, would be in my mind.. - Misappropriation, Erasure, Stereotyping (Religious Context)
+
+3. “They only had one line for Christian weddings. ... They didn’t have anything about Muslim weddings, about a nikah.” - erasure [religion]
+
+4. To begin with, this is most probably representing just 1-2 religions, not all of Indian religions. Secondly, I don’t see any feminine gods here. - Erasure (Religious Context)
+
+D. Erasure and Culture/Art
+
+1. It touched on only one aspect, and like we have dance, we have temples, we have so many festivals, Diwali holi. Nothing is here, and, like Devalu, only are just which I celebrate, but there are so many other festivals in India. : Yeah, they all are missing. Stereotyping, QoS, Erasure (Sentiment Towads GAI)
+
+2. As other people have already mentioned, these images mostly represent the classical dance form, but in classical also, it, I think, mostly just represents 2 out of 8 classical dance form that exist. I think this is Odissi, or maybe Kathak in the top image. But Northeastern dances are not depicted, or other dance forms are completely not depicted. There are certain classical dances from the Northeast, such as Sattriya or other dances, which are not depicted in these images. Maybe it’s just because they are allowed to generate only 4 images, so it mostly represents only 2 types of dance forms.. - Erasure (Dance and Cultural Context)
+
+3. So, in Indian classical dances, they have evolved from different genres of dances from the past. Like, a lot of the South Indian dances have evolved from temple dances. The 4 pictures we have in this one are mostly forms of temple dancing. I don’t think they showcase anything beyond that, because the gold and the gold borders all represent those dances, which might be slightly problematic even if you are just trying to showcase classical dances.. - Erasure (Dance and Cultural Context)
+
+4. I think it's just not as representative of all different kinds of Indian fashion as it could be. And also, I think one thing that's a little jarring to me is that there's only one example of like male fashion. So the fact that there aren't as many like there aren't equal examples of the different kinds of fashion [Erasure (Gender)]
+
+5. “I think a lot of the ornaments seem to be saree based. But I think there are a lot of different attire across India that are more common than the wedding style shown.” - erasure [clothing]
+
+E. Erasure and Family Structures
+
+1. “ First thing that comes to mind is they’re all heterosexual. I mean they look heterosexual, I should say. All 4 couples look heterosexual.” - stereotyping [family], erasure [sexuality]
+
+2. Around 50-60% of households in India are nuclear families. So to say that multiple generations often live together is not true because I think that the joint family in India is maybe around 15-16%. So this is a very stereotypical depiction of Indian families. And again, in the furniture, they have mentioned that it is very colorful and redecorated with colors, which I don’t know why. And again, Rangoli is only done during festivals, at least in my house and I don’t think that people wake up every morning and draw this. - Erasure, Stereotyping, Misappropriation (Text Generation, Indian Household)
+
+F. Erasure and Geography
+
+
+1. Diversity is also inclusive of landscapes and different regions of India. That's something that definitely, maybe I don't know if it will show it. But in a very basic rudimentary like understanding of that word. It might also mean that. [Erasure (Regional)]
+
+
+V. Disparagement
+
+1. But I don’t think that’s just an LLM bias. Society, LLMs, data: they all penalize and sexualize the female body much more. - Disparagement, QoS (Gender Context, Religious Context)
+
+2. Female bodies are penalized as being more sexual, for much less. There were torsos shown in the other picture as well, but those were safe for work, so not too sure what happened there. 
+
+3. The model is showing these kinds of images because it's trained on majority datasets, where majority of the people and majority of the information that's fed into it is Indian people in their sarees. That's a stereotype, and that's why it's giving these kinds of images.” - Misinformation and Erasure and Disparagement 
+
+4. “Yeah, I mean, by just looking at these pictures, they would think that most families in India are Hindu families. But about the minorities and super duper minorities, I've had lots of friends from different regions. So I think it's not being captured here appropriately, the difference in demographics, and how the people and the percentage varies from state to state. So if you go to a place like Kerala, the proportion of people who are Muslims and Christians, and even other religions, are much, much higher. So can you visualize those things in images? I think I would want that to be represented in these images.
+
+5.“Also you can't make out from the faces, but again, you can't see diversity in these pictures, from different parts of India, like the Northeast. I don't know. Like when I see these pictures, I don't think this is diverse enough. Regional diversity, yeah.” - Erasure and Disparagement 
+
+
+VI. Overall Issues Perceived by Participants
+
+1.I would say. This is very outdated, too and not 2024. - Erasure, Misinformation, Stereotype
+
+2.One thing that's bothering me about the images is when we search for ‘poor family’ versus ‘middle class’ or ‘modern’ or ‘rich family’, the skin tone was different and darker for the poor family. I think that's some kind of bias that's there when the prompt is being generated. And I don't know if it's a Western idea that's being portrayed for India. So I think that should also be changed. - Stereotyping, Misinformation (Context of Colorism)
+
+3.The pictures were misinforming, misleading. It shows a very typical…stereotypical, in fact, a stereotypical Indian. I mean the idea of an Indian or India in general for the rest of the world. And like. if someone from a different country or different culture really goes back to this. You know, like this place to know about. Our culture will be heavily like, you know will be all misinformed. - (Concerns of AI)
+
+4.So basically, it’s not capturing, you know, region specific phenomena or region specific features. So. yes, okay, I guess that’s that’s kind of a sort of a drawback.- Erasure (Weaknesses of GAI)
+
