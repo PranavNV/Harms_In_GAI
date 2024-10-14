@@ -8,3 +8,37 @@ The repository consists of the following data:
 4. Surveys and additional material used to collect information during the focus group.
 5. Quotes related to harms identified and thematically categorized.
 6. Codebook of the focus group with the most common discussion points encountered.
+
+
+# Project Contact Information
+
+
+Faculty Advisor:
+
+Name: Dr. Aylin Caliskan
+Email: aylin@uw.edu
+Affiliation: University of Washington
+
+Name: Dr. Shomir Wilson
+Email: shomir@psu.edu
+Affiliation: Pennsylvania State University
+
+
+PhD Researchers:
+
+Name: Pranav Narayanan Venkit
+Email: pranav.venkit@psu.edu
+Affiliation: Pennsylvania State University
+
+Name: Sourojit Ghosh
+Email: ghosh100@uw.edu
+Affiliation: University of Washington
+
+Name: Sanjana Gautam
+Email: sanjana.gautam@psu.edu
+Affiliation: Pennsylvania State University
+
+
+Acknowledgement:
+This work was supported by the U.S. National Institute of Standards and Technology (NIST) Grant 60NANB23D194.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect those of NIST.
