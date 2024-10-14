@@ -16,27 +16,27 @@ The repository consists of the following data:
 Faculty Advisor:
 
 Name: Dr. Aylin Caliskan <br>
-Email: aylin@uw.edu
-Affiliation: University of Washington
-
-Name: Dr. Shomir Wilson
-Email: shomir@psu.edu
-Affiliation: Pennsylvania State University
+Email: aylin@uw.edu <br>
+Affiliation: University of Washington <br>
+<br>
+Name: Dr. Shomir Wilson <br>
+Email: shomir@psu.edu <br>
+Affiliation: Pennsylvania State University <br>
 
 
 PhD Researchers:
 
-Name: Pranav Narayanan Venkit
-Email: pranav.venkit@psu.edu
-Affiliation: Pennsylvania State University
+Name: Pranav Narayanan Venkit <br>
+Email: pranav.venkit@psu.edu <br>
+Affiliation: Pennsylvania State University <br>
 
-Name: Sourojit Ghosh
-Email: ghosh100@uw.edu
-Affiliation: University of Washington
+Name: Sourojit Ghosh <br>
+Email: ghosh100@uw.edu <br>
+Affiliation: University of Washington <br>
 
-Name: Sanjana Gautam
-Email: sanjana.gautam@psu.edu
-Affiliation: Pennsylvania State University
+Name: Sanjana Gautam <br>
+Email: sanjana.gautam@psu.edu <br>
+Affiliation: Pennsylvania State University <br>
 
 
 Acknowledgement:
