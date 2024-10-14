@@ -15,7 +15,7 @@ The repository consists of the following data:
 
 Faculty Advisor:
 
-Name: Dr. Aylin Caliskan //
+Name: Dr. Aylin Caliskan <br>
 Email: aylin@uw.edu
 Affiliation: University of Washington
 
